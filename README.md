@@ -35,7 +35,3 @@ A simple SwiftUI app to manage events, allowing users to add, edit, and delete e
    - Select the desired simulator or device.
    - Press Cmd + R or use the Run button in Xcode to build and run the app.
 ```
-
-Changes:
-- Corrected missing closing code blocks.
-- Fixed formatting for steps in the setup section.
